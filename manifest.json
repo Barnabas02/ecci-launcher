@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "ECCi Launcher",
+  "description": "Quick launch for Exalted Christ Church international Media links",
+  "version": "1.0.0",
+  "icons": { "128": "ecci-128.png" },
+  "action": {
+    "default_icon": "ecci-19.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": ["activeTab"]
+}
